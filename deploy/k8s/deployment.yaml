@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: geolocationmock-go
-        image: geolocationmock-go
+        image: davarski/geolocationmock-go
         ports:
         - name: http
           containerPort: 8000
