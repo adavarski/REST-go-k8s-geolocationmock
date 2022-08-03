@@ -2,7 +2,7 @@
 
 This repository contains a simple quick 'n dirty mock server of the [https://ip-api.com/](https://ip-api.com/) and [https://ipbase.com/](https://ipbase.com/) IP geolocation API.
 
-It is mostly used for the development and testing of [geolocation-go](https://github.com/lescactus/geolocation-go).
+It is mostly used for the development and testing of [REST-go-k8s-geolocation](https://github.com/adavarski/REST-go-k8s-geolocation).
 
 ## Configuration and usage
 
