@@ -1,4 +1,4 @@
-module github.com/lescactus/geolocationmock-go
+module github.com/adavarski/REST-go-k8s-geolocationmock
 
 go 1.16
 
